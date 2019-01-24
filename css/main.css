@@ -266,7 +266,9 @@ button {
 .chapo {
   font-family: "WorkSans";
   font-size: 25px;
-  font-weight: 
+  font-weight: 400;
+  color: #1a1a1a;
+  text-align: center
 }
 
 .header__nav {
@@ -386,15 +388,21 @@ button {
 
 .news__title {
   margin: 0 0 15px;
-  font-weight: bold;
-  font-size: 2em;
+  font-family: "Montserrat";
+  font-size: 34px;
+  font-weight: 500;
   line-height: 1.4;
+  color: #1a1a1a;
 }
 
 .news__text {
   margin: 0;
-  font-size: 1.4em;
+  font-family: "WorkSans"
+  font-size: 24px;
+  font-weight: 400;
   line-height: 1.4;
+  color: #1a1a1a; 
+
 }
 
 .page-list .news {
@@ -482,4 +490,9 @@ button {
 .index-title {
   text-align: center;
   margin-bottom: 35px;
+  font-family: "Montserrat";
+  font-weight: 100;
+  font-size: 64px;
+  color: #1a1a1a;
+
 }
