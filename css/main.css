@@ -240,7 +240,8 @@ button {
   width: 100%;
   text-align: center;
   color: white;
-  font-family: "Montserrat", "Avenir Next", Helvetica, Arial, sans-serif;
+  font-family: "Montserrat", sans-serif;
+
   text-shadow: 1px 1px 4px #000;
   background: rgba(0, 0, 0, 0.4);
 }
@@ -255,8 +256,10 @@ button {
 
 .header__subtitle {
   margin: 0;
-  font-size: 3.2em;
+  font-family: "montserrat";
+  font-size: 42px;
   font-weight: 100;
+  color: white;
   text-shadow: 1px 1px 5px #000;
 }
 
