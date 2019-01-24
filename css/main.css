@@ -223,7 +223,7 @@ button {
   margin-bottom: 35px;
   width: 960px;
   height: 350px;
-  background: url("../img/header-bg.jpeg");
+  background: url("../img/background.jpg");
   background-size: cover;
   background-position: center bottom;
   overflow: hidden;
@@ -239,10 +239,6 @@ button {
   bottom: 0;
   width: 100%;
   text-align: center;
-  color: white;
-  font-family: "Montserrat", sans-serif;
-
-  text-shadow: 1px 1px 4px #000;
   background: rgba(0, 0, 0, 0.4);
 }
 .header__content:hover {
@@ -252,6 +248,11 @@ button {
 .header__title {
   font-size: 5.4em;
   margin: 0;
+  font-family: "Montserrat", sans-serif;
+  font-size: 64px;
+  font-weight: bold;
+  color: white;
+  text-shadow: 1px 1px 4px #000;
 }
 
 .header__subtitle {
@@ -262,7 +263,11 @@ button {
   color: white;
   text-shadow: 1px 1px 5px #000;
 }
-
+.chapo {
+  font-family: "WorkSans";
+  font-size: 25px;
+  font-weight: 
+}
 
 .header__nav {
   background-color: rgba(0, 0, 0, 0.85);
