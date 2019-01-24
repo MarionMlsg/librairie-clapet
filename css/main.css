@@ -64,41 +64,9 @@ h6 {
   margin: 15px 0;
   font-size: 1.4em;
 }
-h1 {
-  font-family: Montserrat;
-  font-size: 64px;
-  font-weight: bold;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: normal;
-  letter-spacing: normal;
-  text-align: center;
-  color: var(--white);
-}
-h2 {
-  font-family: Montserrat;
-  font-size: 64px;
-  font-weight: 200;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: normal;
-  letter-spacing: normal;
-  text-align: center;
-  color: #1a1a1a;
-}
-h3 {
-  font-family: Montserrat;
-  font-size: 42px;
-  font-weight: 300;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: normal;
-  letter-spacing: normal;
-  color: #1a1a1a;
-}
 
-h4, h5, h6 {
-  font-family: Helvetica, Arial, sans-serif;
+h1,h2,h3,h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
   line-height: 1;
 }
 
