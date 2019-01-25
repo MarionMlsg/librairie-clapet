@@ -9,7 +9,7 @@ body {
   margin: auto;
   border-bottom: 5px solid #d9d9d9;
   padding-bottom: 75px;
-  font-family: 'Montserrat';
+  font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   color: #303044;
 }
@@ -260,7 +260,7 @@ button {
 
 .header__subtitle {
   margin: 0;
-  font-family: "montserrat";
+  font-family:'Montserrat', sans-serif;
   font-size: 42px;
   font-weight: 100;
   color: white;
@@ -269,7 +269,7 @@ button {
   ;
 }
 .chapo {
-  font-family: "montserrat";
+  font-family:'Work Sans', sans-serif;
   font-size: 24px;
   font-weight: 500;
   color: #1a1a1a;
@@ -352,7 +352,7 @@ button {
   margin: 0;
   font-size: 2em;
   font-weight: 600;
-  font-family: "Montserrat";
+  font-family: 'Montserrat', sans-serif;
   font-size: 26px; 
   color: #1a1a1a;
   text-align: center;
@@ -362,7 +362,7 @@ button {
   margin: 0;
   font-size: 1.6em;
   font-weight: 200;
-  font-family: "montserrat";
+  font-family: 'Montserrat', sans-serif;
   text-align: center;
   }
 
@@ -403,7 +403,7 @@ button {
 
 .news__title {
   margin: 0 0 15px;
-  font-family: "Montserrat";
+  font-family:'Montserrat', sans-serif;
   font-size: 34px;
   font-weight: 500;
   line-height: 1.4;
@@ -412,7 +412,7 @@ button {
 
 .news__text {
   margin: 0;
-  font-family: "WorkSans"
+  font-family: 'Work Sans', sans-serif;
   font-size: 24px;
   font-weight: 400;
   line-height: 1.4;
@@ -505,7 +505,7 @@ button {
 .index-title {
   text-align: center;
   margin-bottom: 35px;
-  font-family: "Montserrat";
+  font-family: 'Montserrat', sans-serif;
   font-weight: 100;
   font-size: 64px;
   color: #1a1a1a;
