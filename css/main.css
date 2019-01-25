@@ -499,6 +499,26 @@ button {
   text-align: center;
 }
 
+.croix {
+text-align: center;
+font-size: 20px;
+}
+.text-localisation {
+  margin-top: 10px;
+  margin-bottom: 57px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+  font-size: 64px;
+  color: #1a1a1a;
+  
+}
+
+.carte {
+  width: 100%;
+}
+
+
 /**
 * index
 */
