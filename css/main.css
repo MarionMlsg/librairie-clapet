@@ -93,8 +93,7 @@ button {
 .container {
   margin: auto;
   padding: 0 15px;
-  width: 960px;
-  max-width: 100%;
+  max-width: 960px;
 }
 
 .text-container {
@@ -221,7 +220,7 @@ button {
   margin-right: auto;
   margin-left: auto;
   margin-bottom: 35px;
-  width: 960px;
+  max-width: 960px;
   height: 350px;
   background: url("../img/background.jpg");
   background-size: cover;
@@ -342,14 +341,20 @@ button {
 .honey-pot__title {
   margin: 0;
   font-size: 2em;
-  font-weight: bold;
+  font-weight: 600;
+  font-family: "Montserrat";
+  font-size: 26px; 
+  color: #1a1a1a;
+  text-align: center;
 }
 
 .honey-pot__subtitle {
   margin: 0;
   font-size: 1.6em;
   font-weight: 200;
-}
+  font-family: "montserrat";
+  text-align: center;
+  }
 
 
 
