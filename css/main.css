@@ -644,3 +644,16 @@ font-size: 40px;
   min-width: 50%;
 }
 
+/**
+* Actualités
+*/
+
+.title_actualité {
+  font-size: 56px;
+  text-align: justify;
+  margin-left: 119px;
+  margin-right: 120px;
+  
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
