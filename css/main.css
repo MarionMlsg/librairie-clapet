@@ -542,19 +542,51 @@ font-size: 20px;
   color: #1a1a1a;
 }
 
+.cover-large {
+  width: 560px;
+  height: 844px;
+  object-fit: contain;
+  box-shadow: 1px 1px 5px 0 rgba(0, 0, 0, 0.14);
+  margin-right: 20;
+}
+
 .chapo {
+  font-family: 'Work Sans', sans-serif; 
+  font-size: 25px;
+  text-align: justify;
+  width: 600px;
+  margin-bottom: 8px;
+  padding-left: 20px;
   
+}
+
+.explication {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 20px;
+  text-align: justify;
+  margin-bottom: 8px;
+  padding-left: 20px;
+}
+
+.description {
+  width: 600px;
+  height: 160px;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 20px;
+  text-align: justify;
+  margin-bottom: 8px;
+  padding-left: 20px;
 }
 .text-citation {
   font-family: 'Montserrat', sans-serif;
   font-size: 24px;
+  border-left: 4px solid rgb(214, 214, 214); 
   font-weight: 200;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: normal;
-  letter-spacing: normal;
+  margin-bottom: 8px;
+  padding-left: 20px;
   color: #e8a27d;
 }
+
 
 .author-citation {
   font-size: 16px ;
@@ -567,11 +599,10 @@ font-size: 20px;
 .text-citation2 {
   font-family: 'Montserrat', sans-serif;
   font-size: 24px;
+  border-left: 4px solid rgb(214, 214, 214); 
   font-weight: 200;
-  font-style: normal;
-  font-stretch: normal;
-  line-height: normal;
-  letter-spacing: normal;
+  margin-bottom: 8px;
+  padding-left: 20px;
   color: #e8a27d;
 }
 
@@ -583,6 +614,20 @@ font-size: 20px;
   text-align: right;
 }
 
+.blabla {
+  font-size: 20px ;
+  color: #1a1a1a;
+  font-family: 'Work Sans', sans-serif; 
+  text-align: justify;
+  width: 960px;
+  height: 360px;
+}
+.croix {
+    display: block;
+    margin-left: auto;
+    margin-right: auto ;
+    
+  }
 
 .colonnes {
   display: flex;
@@ -592,3 +637,4 @@ font-size: 20px;
 .colonne-image {
   min-width: 50%;
 }
+
