@@ -532,3 +532,63 @@ font-size: 20px;
   ;
 
 }
+/**
+* conseils-de-lecture
+*/
+.page-single__title {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 56px;
+  color: #1a1a1a;
+}
+
+.chapo {
+  
+}
+.text-citation {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+  font-weight: 200;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #e8a27d;
+}
+
+.author-citation {
+  font-size: 16px ;
+  color: #1a1a1a;
+  font-weight: 400;
+  font-family: 'Work Sans', sans-serif; 
+  text-align: right;
+}
+
+.text-citation2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+  font-weight: 200;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #e8a27d;
+}
+
+.author-citation2 {
+  font-size: 16px ;
+  color: #1a1a1a;
+  font-weight: 400;
+  font-family: 'Work Sans', sans-serif; 
+  text-align: right;
+}
+
+
+.colonnes {
+  display: flex;
+
+}
+
+.colonne-image {
+  min-width: 50%;
+}
