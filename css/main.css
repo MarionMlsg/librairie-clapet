@@ -700,10 +700,63 @@ font-size: 40px;
   font-weight: 300;
 }
 
-.description {
+.description_bd {
   width: 880px;
   height: 120px;
   font-size: 20px; 
   text-align: justify;
   font-family: 'Work Sans', sans-serif;
+}
+
+.presentation_M{
+  display: flex;
+  margin-left : 119px;
+  margin-right: 126px;
+  margin-bottom: 50px;
+}
+
+.name{
+  width: 400px;
+  height: 52px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 42px;
+  font-weight: 300;
+}
+
+.bio_M {
+  width: 880px;
+  height: 288px;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 20px;
+  text-align: justify;
+}
+
+.marguerite{
+  width: 280px;
+  height: 281px;
+}
+
+.Mat {
+  display:flex;
+  margin-top:150px; 
+  margin-left : 119px;
+  margin-right: 126px;
+}
+
+.presentation_mat{
+  margin-left: 30px;
+}
+.name_mat {
+  height: 52px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 42px;
+  font-weight: 300;
+}
+
+.bio_Mat {
+  width: 880px;
+  height: 168px;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 20px;
+  text-align: justify;
 }
