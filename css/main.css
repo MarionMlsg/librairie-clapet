@@ -637,8 +637,6 @@ font-size: 40px;
 }
 
 .description {
-  width: 600px;
-  height: 160px;
   font-family: 'Work Sans', sans-serif;
   font-size: 20px;
   text-align: justify;
@@ -682,28 +680,21 @@ font-size: 40px;
   text-align: right;
 }
 
+.colonnes {
+  display: grid;
+  grid-gap: 35px;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+
 .blabla {
   font-size: 20px ;
   color: #1a1a1a;
   font-family: 'Work Sans', sans-serif; 
   text-align: justify;
-  width: 960px;
-  height: 360px;
-}
-.croix {
-    display: block;
-    margin-left: auto;
-    margin-right: auto ;
-  }
-
-.colonnes {
-  display: flex;
-
 }
 
-.colonne-image {
-  min-width: 50%;
-}
+
 
 /**
 * Actualités
