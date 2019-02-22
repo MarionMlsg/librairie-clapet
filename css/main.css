@@ -555,7 +555,6 @@ font-size: 40px;
 .tiffany_content{
   text-align: left;
   margin-left: 30px;
-  width: 790px;
 
 }
 .news__date{
@@ -576,7 +575,7 @@ font-size: 40px;
   font-family: 'Work Sans', sans-serif;
   font-size: 24px;
   margin-bottom: 20px;
-  width: 720px;
+
 }
 
 
@@ -817,4 +816,33 @@ font-size: 40px;
   font-family: 'Work Sans', sans-serif;
   font-size: 20px;
   text-align: justify;
+}
+
+/**
+* Notre-Actualité
+*/
+
+.articles_actu {
+  display:grid;
+  grid-gap: 35px;
+  grid-template-columns: repeat(4,1fr);
+  grid-template-rows: auto;
+  margin-bottom: 35px;
+  margin-left: 90px;
+  margin-right: 90px;
+}
+
+.articles_actu .news_tiffany .news__link {
+  border: none;
+}
+
+.tiffany{
+  grid-column: span 4;
+}
+.moyen-2{
+  grid-column: span 2;
+}
+.news__image{
+  width: 280px;
+  height: 175px;
 }
