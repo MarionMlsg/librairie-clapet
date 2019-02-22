@@ -569,13 +569,14 @@ font-size: 40px;
   font-family: 'Montserrat', sans-serif;
   font-size: 34px;
   font-weight: 500;
-  width: 720px;
+  
 }
 
 .tiffany_text {
   font-family: 'Work Sans', sans-serif;
   font-size: 24px;
   margin-bottom: 20px;
+  width: 720px;
 }
 
 
