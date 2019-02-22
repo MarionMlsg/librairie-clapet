@@ -541,33 +541,43 @@ font-size: 40px;
 }
 .news_tiffany  .news__link{
   display: flex;
+  border-bottom: 2px grey solid;
+  margin-top:30px;
+  margin-bottom: 30px;
 }
 
+
 .image_tiffany{
-  
+  min-width: 372px;
+  min-height: 232px;
 }
 
 .tiffany_content{
-  max-width: 784.6px;
+  text-align: left;
+  margin-left: 30px;
+  width: 790px;
+
 }
 .news__date{
 
   font-family: 'Montserrat', sans-serif;
   font-size: 18px;
   color:#e8a27d;
+  text-align: left;
 }
 .news__title_tiffany {
   font-family: 'Montserrat', sans-serif;
   font-size: 34px;
   font-weight: 500;
+  width: 720px;
 }
 
 .tiffany_text {
-  width: 784.6px;
-  height: 84px;
   font-family: 'Work Sans', sans-serif;
   font-size: 24px;
+  margin-bottom: 20px;
 }
+
 
 .news_list{
   display:grid; 
@@ -578,10 +588,12 @@ font-size: 40px;
 .news__title {
   font-family: 'Montserrat', sans-serif;
   font-size: 24px;
+  text-align: left;
 }
 .news__text {
   font-family: 'Work Sans', sans-serif;
   font-size: 20px;
+  text-align: left;
 }
 
 /**
