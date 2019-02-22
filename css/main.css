@@ -657,3 +657,53 @@ font-size: 40px;
   font-family: 'Montserrat', sans-serif;
   font-weight: 600;
 }
+
+.title_date {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+  text-align: justify;
+  margin-left: 119px;
+  margin-right: 120px;
+}
+
+.news_big {
+  display : flex;
+  margin-left : 119px;
+  margin-top : 50px;
+}
+
+.akissi {
+  object-fit: contain;
+  box-shadow: 1px 1px 4px 0 rgba(0, 0, 0, 0.15);
+ 
+}
+
+.news_text{
+  margin-left: 30px;
+  margin-top: 0px;
+
+}
+
+.infos {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 25px;
+  text-align: justify;
+  width: 880px;
+  height: 87px;
+  margin-bottom: 40px;
+}
+
+.titre_bd {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 42px;
+  font-weight: 300;
+}
+
+.description {
+  width: 880px;
+  height: 120px;
+  font-size: 20px; 
+  text-align: justify;
+  font-family: 'Work Sans', sans-serif;
+}
